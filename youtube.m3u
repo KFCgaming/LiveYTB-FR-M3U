@@ -1,0 +1,33 @@
+#EXTM3U x-tvg-url="https://github.com/botallen/epg/releases/download/latest/epg.xml"
+
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
+
+
+#EXTINF:-1 group-title="Enfant" tvg-logo="https://yt3.ggpht.com/0LnjAXReU-YaYK4ywo28T-qtDOhgSFMVbjI-Lf8yZTP6mSeTvRh4_Uq6ek0J-S796sBDjlIWZpI=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Simon
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661978501/ei/JXMPY9eFDNX4sALI-K7QCQ/ip/2a01%3Ae0a%3A25%3Ab0f0%3Aac91%3A400f%3A80f3%3A562c/id/3V0Otgot-9M.1/source/yt_live_broadcast/requiressl/yes/tx/24214267/txs/24214266%2C24214267/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOhgPI3heooOTcBj-b5B71CcgHarWXp2h4FX6e-IEphlAiEAiOSaET2rEZk379DdC19WKMpceZ42in0rJzNhdTg5NfE%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Enfant" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8j7vg-WDHQl9MN2hsiPqcx_L4Zv0o3BFZQRcTL=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Peppa Pig
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661978502/ei/JXMPY_fXOpb1xwKSuqPwAw/ip/2a01%3Ae0a%3A25%3Ab0f0%3Aac91%3A400f%3A80f3%3A562c/id/Uq5MCXgw3_Y.3/source/yt_live_broadcast/requiressl/yes/tx/24197276/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgRb2mVutR0t_RTXsAGlioTcBEPUOVjl7zjDS-LLR_nxkCIF4ysqBMNMQUk1c39kk-HGwEzOi9PbEtXzKiIKTjqGXb/file/index.m3u8
+
+#EXTINF:-1 group-title="Enfant" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8YNB62o0jaUwJ-Youn8p3yhsiCcy7upX7P_ZQ3TQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Tom Et Jerry
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661978502/ei/JnMPY7DZHrSfxN8P8KmY4As/ip/2a01%3Ae0a%3A25%3Ab0f0%3Aac91%3A400f%3A80f3%3A562c/id/RrNKJTbvpWY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOTkgnOnHuoH_cjwDDV1o6akxd7TH6R9Pbe6dLEP8s6mAiBOpZKwEHJ2vv33JinVayrT1PniqniJSlTBxIs7Bxi2Wg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Enfant" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_IMNhIbShrIHERJ9aS0loVbS67powWecuHjdH7=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Pyjamasques
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661978503/ei/J3MPY6W5AtCFxgLoo4OAAw/ip/2a01%3Ae0a%3A25%3Ab0f0%3Aac91%3A400f%3A80f3%3A562c/id/e7hOyEGN-Ok.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOkSoY1tDLE7zYZMKpmGgmyP1UssJ29yG8BWbIhpiaQiAiBGbE51CbhmDb1el95bDwky2biDdahQT2XZ8n2BIDNqvQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Enfant" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-xworulbhtAWMSIkIoeIijdzYgNs7eMzasjVM4=s48-c-k-c0x00ffffff-no-rj" tvg-id="", DC Kids
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661978503/ei/J3MPY8a4LK-qxN8P45qloA0/ip/2a01%3Ae0a%3A25%3Ab0f0%3Aac91%3A400f%3A80f3%3A562c/id/TxERa_5Tw70.1/source/yt_live_broadcast/requiressl/yes/tx/24246936/txs/24246935%2C24246936/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPCCfc3TOOp0T3C8o9oWnTtJC_5cs61PPGwe8HbJBXRpAiBzL2-wuKGXA-1VXPhQPi8dDW4Yp_HRTgImxqzjhT8G6Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Enfant" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu88z21QqPZvhGbs7R28nNoyX6jAyejppLAodfvQ=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Baby Shark
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661978504/ei/KHMPY_uBFd2omLAPv4aT-Aw/ip/2a01%3Ae0a%3A25%3Ab0f0%3Aac91%3A400f%3A80f3%3A562c/id/2tLbVh4AVQY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgZQCXCuLTtkfxVLVk7RLnTITsW8jOsBxqJoo8EyZtnRACIE4bVDDTLjXFuhqa40P1GF3qWuhrRCP_bloFRLos3rZJ/file/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://pics.clipartpng.com/Realistic_Fish_Blue_and_Yellow_PNG_Clipart-444.png" tvg-id="", Relax Ocean
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1661978505/ei/KXMPY8zBDPS9xN8P5-KwyAc/ip/2a01%3Ae0a%3A25%3Ab0f0%3Aac91%3A400f%3A80f3%3A562c/id/tAuXNZ5TSlA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/fr/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIEUeSL0Pgioex7Gn407b9Ioxw1FoePD2HEPOai744wXAiBJdt4hsn5p4aJ0Z9QEdB08HRT17APqJS_ux8zUWbRYDA%3D%3D/file/index.m3u8

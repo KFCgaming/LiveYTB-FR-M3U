@@ -1,0 +1,23 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+ Simon | Enfant | https://yt3.ggpht.com/0LnjAXReU-YaYK4ywo28T-qtDOhgSFMVbjI-Lf8yZTP6mSeTvRh4_Uq6ek0J-S796sBDjlIWZpI=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=3V0Otgot-9M
+
+ Peppa Pig | Enfant | https://yt3.ggpht.com/ytc/AMLnZu8j7vg-WDHQl9MN2hsiPqcx_L4Zv0o3BFZQRcTL=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=Uq5MCXgw3_Y
+
+ Tom Et Jerry | Enfant | https://yt3.ggpht.com/ytc/AMLnZu8YNB62o0jaUwJ-Youn8p3yhsiCcy7upX7P_ZQ3TQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=RrNKJTbvpWY
+
+ Pyjamasques | Enfant | https://yt3.ggpht.com/ytc/AMLnZu_IMNhIbShrIHERJ9aS0loVbS67powWecuHjdH7=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=e7hOyEGN-Ok
+
+ DC Kids | Enfant | https://yt3.ggpht.com/ytc/AMLnZu-xworulbhtAWMSIkIoeIijdzYgNs7eMzasjVM4=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=TxERa_5Tw70
+
+ Baby Shark | Enfant | https://yt3.ggpht.com/ytc/AMLnZu88z21QqPZvhGbs7R28nNoyX6jAyejppLAodfvQ=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=2tLbVh4AVQY
+
+ Relax Ocean | Music | https://pics.clipartpng.com/Realistic_Fish_Blue_and_Yellow_PNG_Clipart-444.png |
+https://www.youtube.com/watch?v=tAuXNZ5TSlA
