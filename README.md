@@ -8,7 +8,7 @@
 		<tr><th align="left">Nom du Direct</th><th align="right">Groupe</th><th align="left">Logo</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Simon</td><td align="right">Enfant</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
+		<tr><td align="left">Simon</td><td align="right">Enfant</td><td align="left"><code>[https://iptv-org.github.io/iptv/categories/auto.m3u](https://i.ytimg.com/vi/3V0Otgot-9M/maxresdefault.jpg)</code></td></tr>
 		<tr><td align="left">Peppa Pig</td><td align="right">Enfant</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
 		<tr><td align="left">Tom & Jerry</td><td align="right">Enfant</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/comedy.m3u</code></td></tr>
 		<tr><td align="left">Pyjamasques</td><td align="right">Enfant</td><td align="left"><code>https://iptv-org.github.io/iptv/categories/documentary.m3u</code></td></tr>
