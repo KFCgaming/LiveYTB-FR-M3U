@@ -1,13 +1,15 @@
 #! /usr/bin/python3
 
 banner = r'''
-██╗     ██╗██╗   ██╗███████╗███╗   ███╗██████╗ ██╗   ██╗
-██║     ██║██║   ██║██╔════╝████╗ ████║╚════██╗██║   ██║
-██║     ██║██║   ██║█████╗  ██╔████╔██║ █████╔╝██║   ██║
-██║     ██║╚██╗ ██╔╝██╔══╝  ██║╚██╔╝██║ ╚═══██╗██║   ██║
-███████╗██║ ╚████╔╝ ███████╗██║ ╚═╝ ██║██████╔╝╚██████╔╝
-╚══════╝╚═╝  ╚═══╝  ╚══════╝╚═╝     ╚═╝╚═════╝  ╚═════╝ 
-                                                        
+#########################################################################
+#      ____            _           _   __  __                           #
+#     |  _ \ _ __ ___ (_) ___  ___| |_|  \/  | ___   ___  ___  ___      #
+#     | |_) | '__/ _ \| |/ _ \/ __| __| |\/| |/ _ \ / _ \/ __|/ _ \     #
+#     |  __/| | | (_) | |  __/ (__| |_| |  | | (_) | (_) \__ \  __/     #
+#     |_|   |_|  \___// |\___|\___|\__|_|  |_|\___/ \___/|___/\___|     #
+#                   |__/                                                #
+#                                  >> https://github.com/benmoose39     #
+#########################################################################
 '''
 
 import requests
@@ -24,12 +26,13 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+                print('https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.m3u')
                 return
-            os.system(f'wget {url} -O temp.txt')
+            #os.system(f'wget {url} -O temp.txt')
+            os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u')
+                print('https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.m3u')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
