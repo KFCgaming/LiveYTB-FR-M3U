@@ -8,15 +8,11 @@
 		<tr><th align="left">Nom du Direct</th><th align="right">Groupe</th><th align="left"></th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Simon</td><td align="right">Enfant</td><td align="left"><code></code></td></tr>
 		<tr><td align="left">Peppa Pig</td><td align="right">Enfant</td><td align="left"><code></code></td></tr>
-		<tr><td align="left">Tom & Jerry</td><td align="right">Enfant</td><td align="left"><code></code></td></tr>
 		<tr><td align="left">Pyjamasques</td><td align="right">Enfant</td><td align="left"><code></code></td></tr>
-		<tr><td align="left">Pyjamasques Jouet</td><td align="right">Enfant</td><td align="left"><code></code></td></tr>
-		<tr><td align="left">DC Kids</td><td align="right">Enfant</td><td align="left"><code></code></td></tr>
+		<tr><td align="left">Pyjamasques 2</td><td align="right">Enfant</td><td align="left"><code></code></td></tr>
 		<tr><td align="left">Talking Tom</td><td align="right">Enfant</td><td align="left"><code></code></td></tr>
 		<tr><td align="left">Baby Shark</td><td align="right">Enfant</td><td align="left"><code></code></td></tr>
-		<tr><td align="left">Super Truck</td><td align="right">Enfant</td><td align="left"><code></code></td></tr>
 		<tr><td align="left">Relax Océan</td><td align="right">Music</td><td align="left"><code></code></td></tr>
 		<tr><td align="left">Relax Cascade</td><td align="right">Music</td><td align="left"><code></code></td></tr>
 		<tr><td align="left">Relax Pluie</td><td align="right">Music</td><td align="left"><code></code></td></tr>
@@ -27,10 +23,6 @@
 		<tr><td align="left">Chill Radio</td><td align="right">Music</td><td align="left"><code></code></td></tr>
 		<tr><td align="left">Forêt Rivière</td><td align="right">Caméra</td><td align="left"><code></code></td></tr>
 		<tr><td align="left">Forêt</td><td align="right">Caméra</td><td align="left"><code></code></td></tr>
-		<tr><td align="left">Brooks Falls Katmai</td><td align="right">Caméra</td><td align="left"><code></code></td></tr>
-		<tr><td align="left">Centre International de Loup</td><td align="right">Caméra</td><td align="left"><code></code></td></tr>
-		<tr><td align="left">Dumpling Mountain Katmai</td><td align="right">Caméra</td><td align="left"><code></code></td></tr>
-		<tr><td align="left">Nkorho Bush Lodge</td><td align="right">Caméra</td><td align="left"><code></code></td></tr>
 	</tbody>
 </table>
 
