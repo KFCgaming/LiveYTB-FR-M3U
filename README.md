@@ -26,6 +26,7 @@
 	</tbody>
 </table>
 
+Si un direct ne marche pas, vous pouvez le signaler grâce au Issues sur le Github
 
 ### Crée Sa liste de Direct YouTube
 [![Crée Une liste de Live](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
