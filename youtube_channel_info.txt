@@ -1,42 +1,33 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
- Simon | Enfant | https://yt3.ggpht.com/0LnjAXReU-YaYK4ywo28T-qtDOhgSFMVbjI-Lf8yZTP6mSeTvRh4_Uq6ek0J-S796sBDjlIWZpI=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=3V0Otgot-9M
-
  Peppa Pig | Enfant | https://yt3.ggpht.com/ytc/AMLnZu8j7vg-WDHQl9MN2hsiPqcx_L4Zv0o3BFZQRcTL=s48-c-k-c0x00ffffff-no-rj |
 https://www.youtube.com/watch?v=Uq5MCXgw3_Y
 
- Tom Et Jerry | Enfant | https://yt3.ggpht.com/ytc/AMLnZu8YNB62o0jaUwJ-Youn8p3yhsiCcy7upX7P_ZQ3TQ=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=RrNKJTbvpWY
 
  Pyjamasques | Enfant | https://yt3.ggpht.com/ytc/AMLnZu_IMNhIbShrIHERJ9aS0loVbS67powWecuHjdH7=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=e7hOyEGN-Ok
+https://www.youtube.com/watch?v=AaczKIgBxbQ
 
- Pyjamasques Jouet | Enfant | https://yt3.ggpht.com/ytc/AMLnZu_IMNhIbShrIHERJ9aS0loVbS67powWecuHjdH7=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=T7rS1jqjCl4
+ Pyjamasques 2| Enfant | https://yt3.ggpht.com/ytc/AMLnZu_IMNhIbShrIHERJ9aS0loVbS67powWecuHjdH7=s48-c-k-c0x00ffffff-no-rj |
+https://www.youtube.com/watch?v=x3XqIeGcfdI
 
- DC Kids | Enfant | https://yt3.ggpht.com/ytc/AMLnZu-xworulbhtAWMSIkIoeIijdzYgNs7eMzasjVM4=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=TxERa_5Tw70
 
  Talking Tom | Enfant | https://yt3.ggpht.com/ytc/AMLnZu9syYkl5Gmgexi8sHouX1HbEWX2sFF1NCCo0S6Vmw=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=DT_-RM1m6pM
+https://www.youtube.com/watch?v=WV5KdSWrLrc
 
  Baby Shark | Enfant | https://yt3.ggpht.com/ytc/AMLnZu88z21QqPZvhGbs7R28nNoyX6jAyejppLAodfvQ=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=2tLbVh4AVQY
+https://www.youtube.com/watch?v=a5P9DVdYMVg
 
- Super Truck | Enfant | https://yt3.ggpht.com/6df9aUis0r9kuRzwnlBLMApe9p8t8CzslcgRH_KmxOAyJLKaV-rzvoHRdv5e9OneyKFoiJQwOQ=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=sOHegToUjWA
 
  Relax Ocean | Music | https://pics.clipartpng.com/Realistic_Fish_Blue_and_Yellow_PNG_Clipart-444.png |
 https://www.youtube.com/watch?v=tAuXNZ5TSlA
 
  Relax Cascade | Music | http://sylvia0333.s.y.pic.centerblog.net/chute-10556677889899.png |
-https://www.youtube.com/watch?v=2JyuL_pHPVI
+https://www.youtube.com/watch?v=qWjY9GamlQw
 
  Relax Pluie | Music | https://img.pngio.com/png-of-rainy-season-free-of-rainy-seasonpng-transparent-images-rain-weather-png-512_512.png |   
-https://www.youtube.com/watch?v=VDwFZ_AInXw
- 
+https://www.youtube.com/watch?v=LVFELw1csyI
+
  Relax Espace | Music | https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/02/universo-png-transparente5.png?w=696&ssl=1 |
 https://www.youtube.com/watch?v=tNkZsRW7h2c
  
@@ -57,16 +48,4 @@ https://www.youtube.com/watch?v=gcDWT-mTCOI
  
  Foret | Camera | https://www.annamae22pngstock.com/uploads/1/2/7/2/127219265/s556404087663521716_p38_i2_w900.png |
 https://www.youtube.com/watch?v=utFHRDryJL0
-
- Brooks Falls Katmai | Camera | https://purepng.com/public/uploads/medium/bear-wyy.png |
-https://www.youtube.com/watch?v=mphg2feuAPo
-
- Centre International De Loup | Camera | https://pngimg.com/uploads/wolf/wolf_PNG23191.png |
-https://www.youtube.com/watch?v=SQfE_-sSdc4
-
- Dumpling Mountain Katmai | Camera | https://purepng.com/public/uploads/medium/bear-wyy.png |
-https://www.youtube.com/watch?v=r0cwB9l-zy0
-
- Nkorho Bush Lodge | Camera | https://yt3.ggpht.com/ytc/AMLnZu9zk5JNbxaWDEIkzIzTJ2qAPT3xECgjM3Rjoq4H=s48-c-k-c0x00ffffff-no-rj |
-https://www.youtube.com/watch?v=gUZjDCZEMDA
 
