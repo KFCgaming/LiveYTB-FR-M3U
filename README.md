@@ -48,4 +48,6 @@ Voici un tutoriel pour crée sa liste de directs de YouTube.
 
 5) Après avoir mis vos directs, patientez quelques minutes ou heures et vous devriez avoir votre fichier M3U "youtube.m3u" qui sera modifier par un robot.
 
+6) Vous pouvez utilisé votre liste grâce a ce lien : https://raw.githubusercontent.com/ Votre Pseudo / Votre Nom Du Repository /main/youtube.m3u
+
 /!\ Si des directs s'arrêtent, le logiciel mettra une vidéo à la place d'un code erreur.
