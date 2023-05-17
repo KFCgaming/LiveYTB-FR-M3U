@@ -22,7 +22,6 @@
 		<tr><td align="left">Musique 2022 France 2</td><td align="right">Music</td>
 		<tr><td align="left">Chill Radio</td><td align="right">Music</td>
 		<tr><td align="left">Forêt Rivière</td><td align="right">Caméra</td>
-		<tr><td align="left">Forêt</td><td align="right">Caméra</td>
 	</tbody>
 </table>
 
