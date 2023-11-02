@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Enfant" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8j7vg-WDHQl9MN2hsiPqcx_L4Zv0o3BFZQRcTL=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Peppa Pig
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698970134/ei/tuVDZcqTFNqIkwaPlqOABQ/ip/13.91.68.95/id/GpXwoVaA1ts.1/source/yt_live_broadcast/requiressl/yes/tx/24554068/txs/24554063%2C24554064%2C24554065%2C24554066%2C24554067%2C24554068/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f_B5v2QrY759lBTGWnwUE4TGhwZx9Alhvj-iWA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAKybZCxhH0Uyu157ija8CIOJdlj4ASpLqjiCg9ZJWDh2AiA9DgALmskfJz5YEMK8XcusMsSY5FOAiLpPXhun0c2aNw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Enfant" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_IMNhIbShrIHERJ9aS0loVbS67powWecuHjdH7=s48-c-k-c0x00ffffff-no-rj" tvg-id="", Pyjamasques
 https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.m3u
@@ -30,19 +30,19 @@ https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.
 https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://sylvia0333.s.y.pic.centerblog.net/chute-10556677889899.png" tvg-id="", Relax Cascade
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698970138/ei/uuVDZanJJeOJsfIP2LqWkAE/ip/13.91.68.95/id/qWjY9GamlQw.3/source/yt_live_broadcast/requiressl/yes/tx/51018864/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6d5gQxTp4Fo9u38O-cUyZDkQrCs4sOuhsPTPg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRgIhAJZr6rudKt71tsDKfrgOd-4vUb8co8QbX-_k1Cn_Pv19AiEApDTbY4d7w_QJifUhxBdBrH71eEna_jW-J_lJvSOqgZA%3D/file/index.m3u8
+https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://img.pngio.com/png-of-rainy-season-free-of-rainy-seasonpng-transparent-images-rain-weather-png-512_512.png" tvg-id="", Relax Pluie
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698970139/ei/u-VDZZSGD-O_sfIPpdO0gAE/ip/13.91.68.95/id/LVFELw1csyI.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f0H2U8vGrbyJdpt-1KKM2wKJmnyaB6HUSep9WA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAIlLOvKnTRBDwj1_73n032vj_6gm8lBb5hrUVYUiL8g9AiBUeE6P-DKpJxkRQMuqNSrgKaGqf_Q2ZJCZaETDIWFZQA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i2.wp.com/www.multarte.com.br/wp-content/uploads/2019/02/universo-png-transparente5.png?w=696&ssl=1" tvg-id="", Relax Espace
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698970139/ei/u-VDZZuVM6Pkir4PnPauwAI/ip/13.91.68.95/id/tNkZsRW7h2c.7/source/yt_live_broadcast/requiressl/yes/tx/51018869/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f120O1B56h-j4beT4BWSPTLmhcxcn_Hr3Htaaw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgTjHByTE1sva-NlriBTY2lN4VRc-h_YjLShUn05R8L4YCIQCxXkyJRRXyW4j4bU4xXShsojrxXyTTCGSqJzha9W_CLg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://yt3.ggpht.com/KNYElmLFGAOSZoBmxYGKKXhGHrT2e7Hmz3WsBerbam5uaDXFADAmT7htj3OcC-uK1O88lC9fQg=s88-c-k-c0x00ffffff-no-rj" tvg-id="", Relax Lofi
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698970140/ei/vOVDZd-AJozDsfIPr62eiAE/ip/13.91.68.95/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/tx/51018866/txs/51018864%2C51018865%2C51018866%2C51018867%2C51018868%2C51018869%2C51018870/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fw2ejebmAtzwLuKus3w3PEXRF9TgFxSIDsVeFw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ANLwegAwRQIhAKKbls4aL1qrqjkD5c74c_d_BjzB4lARGmdi_WzrXPTaAiAtLEI_t_Cih_IdaL8gpCMMTM-ng_JG3_oQiOAjWhU-8A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://yt3.ggpht.com/qQp9LwzCTy_Xg4fUIbPSZAyE2A4QFC2AS3fbeyU9TYWsBc70JoYWJkyevlzHChn1JMrsyqk1-J0=s48-c-k-c0x00ffffff-no-nd-rj" tvg-id="", Musique 2022 France
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1698970141/ei/veVDZdGDELeL2_gPsZqK8AU/ip/13.91.68.95/id/uNd5kvrGHjk.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6vq0hUiDQABx4sonhMcq5iPxU5j521Kzo1yWA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AGM4YrMwRQIgaVDFY2FvWysog2fY3i1bGrj6bGgp4DR4W3AX-2ZN-uYCIQD1pupaJxyGM1Md3UlsZazxw3q-oicwXdzKiOVGiA9dTg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://yt3.ggpht.com/qQp9LwzCTy_Xg4fUIbPSZAyE2A4QFC2AS3fbeyU9TYWsBc70JoYWJkyevlzHChn1JMrsyqk1-J0=s48-c-k-c0x00ffffff-no-nd-rj" tvg-id="", Musique 2022 France 2
 https://raw.githubusercontent.com/KFCgaming/LiveYTB-FR-M3U/main/assets/moose_na.m3u
